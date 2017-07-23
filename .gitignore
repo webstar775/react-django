@@ -1,0 +1,4 @@
+node_modules
+static/bundles/
+db.sqlites3
+webpack-statas.json
