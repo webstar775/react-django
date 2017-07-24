@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'game',
     'channels',
-    'webpack_loader'
+    'webpack_loader',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
